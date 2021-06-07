@@ -28,3 +28,6 @@ if __name__ == "__main__":
             ActiveDeviceNumbers = usersCount
             toast.show_toast("New User Detected", f"Current connected users is: {usersCount}", duration=10)
             print("Current connected users:", ActiveDeviceNumbers)
+
+
+print('exiting')
